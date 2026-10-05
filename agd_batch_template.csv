@@ -1,0 +1,4 @@
+label,pmma_mm,hvl_mm_al,anode_filter,incident_kerma_mGy,mas,output_uGy_mAs,reference_distance_mm,entrance_distance_mm,g,c,s,legacy_index,acceptance_limit_mGy
+Example measured kerma,45,0.36,Mo/Mo,5,,,,,,,,false,
+Example tube output,45,0.36,Mo/Mo,,100,156,500,600,,,,false,
+Example manual factors,45,0.36,Mo/Mo,5,,,,,0.25,1.1,1,false,
